@@ -3,7 +3,8 @@
 ## Smart Energy Consumption Forecasting and Alert System
 
 PowerGuard AI is an intelligent energy consumption prediction system that helps users estimate daily electricity consumption based on weather conditions and historical patterns. The system promotes efficient energy usage and supports sustainable development goals.
-
+<img width="1355" height="639" alt="image" src="https://github.com/user-attachments/assets/0fc0379a-77e7-4e3d-b2a5-b316a32f6c48" />
+explore the innovation : https://huggingface.co/spaces/nishaafreen/powerguard-ai
 ---
 
 ## 🌍 Sustainable Development Goals (SDGs)
@@ -49,6 +50,7 @@ PowerGuard AI is an intelligent energy consumption prediction system that helps 
 
 ### Development Environment
 - Google Colab
+<img width="1364" height="696" alt="image" src="https://github.com/user-attachments/assets/ec3efa31-72e3-4a0f-9fea-27355b7a2d7e" />
 
 ---
 
@@ -71,6 +73,7 @@ PowerGuard_AI
 ├── README.md
 └── images
 ```
+<img width="746" height="460" alt="image" src="https://github.com/user-attachments/assets/5f3b020f-f572-4369-a646-aa87e7da857b" />
 
 ---
 
@@ -85,7 +88,7 @@ git clone https://github.com/your-username/PowerGuard_AI.git
 Move into the project directory:
 
 ```bash
-cd PowerGuard_AI
+https://nishaafreen-powerguard-ai.hf.space
 ```
 
 Install dependencies:
@@ -127,6 +130,8 @@ Consumption Status:
 - 🟡 Moderate Consumption
 - 🔴 High Consumption
 
+<img width="1084" height="403" alt="image" src="https://github.com/user-attachments/assets/e2d45e71-d800-42fd-a8a7-64234c1c986c" />
+
 ---
 
 ## 🤖 Machine Learning Model
@@ -138,6 +143,14 @@ Random Forest Regressor
 Evaluation Metric:
 
 R² Score
+
+## Using AI is also Posible 
+
+<img width="1217" height="610" alt="image" src="https://github.com/user-attachments/assets/c1de8cda-0f51-4a04-bbe0-87917e72bf1d" />
+
+## Graph Visualization 
+
+<img width="1251" height="594" alt="image" src="https://github.com/user-attachments/assets/2e354550-8a54-426f-bf22-cd77424f697f" />
 
 ---
 
@@ -151,10 +164,13 @@ R² Score
 - 🌐 Deployment using Hugging Face Spaces
 
 ---
+## Bill Analyzer 
+ <img width="752" height="573" alt="image" src="https://github.com/user-attachments/assets/d7d4444e-43ed-456e-9c92-da04d7785e7d" />
+
 
 ## 👨‍💻 Author
 
-Developed using Python, Gradio and Machine Learning.
+Afreen Nisha M
 
 ---
 

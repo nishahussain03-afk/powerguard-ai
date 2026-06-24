@@ -6,6 +6,11 @@ PowerGuard AI is an intelligent energy consumption prediction system that helps 
 <img width="1355" height="639" alt="image" src="https://github.com/user-attachments/assets/0fc0379a-77e7-4e3d-b2a5-b316a32f6c48" />
 explore the innovation : https://huggingface.co/spaces/nishaafreen/powerguard-ai
 ---
+## Demo clip:
+
+
+https://github.com/user-attachments/assets/86ce644b-d4f7-4e5d-8e68-04bbdcf64840
+
 
 ## 🌍 Sustainable Development Goals (SDGs)
 

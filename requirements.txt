@@ -1,0 +1,6 @@
+gradio
+google-generativeai
+pandas
+scikit-learn==1.6.1
+PyPDF2
+plotly

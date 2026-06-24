@@ -1,0 +1,29 @@
+LOW
+Current energy consumption is normal.
+Continue efficient usage.
+Use LED bulbs and energy-saving appliances.
+
+MODERATE
+Monitor unnecessary appliance usage.
+Avoid using heavy appliances during peak hours.
+Turn off unused devices.
+
+HIGH
+Reduce AC usage.
+Shift washing machines and heaters to off-peak hours.
+Use LED lights.
+Unplug devices when not in use.
+
+POWER CUT
+Charge phones and laptops beforehand.
+Keep emergency lights ready.
+Save important work frequently.
+
+HIGH BILL
+Reduce standby power consumption.
+Use efficient appliances.
+Avoid excessive AC usage.
+
+SOLAR
+Solar panels can reduce electricity costs.
+Renewable energy improves sustainability.
